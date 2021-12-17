@@ -41,5 +41,6 @@
 
 ## 🔥 Download the App 🔥
 [Download Now](https://github.com/Ddhruv-IOT/Diwali-Crackers-in-Python/raw/main/diwali.exe)
+<br/>
 ⚠️ *Browser or OS may show warnings but kindly ignore them*
 
