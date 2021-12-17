@@ -38,3 +38,8 @@
 ## 💡💡 Usage 💡💡
 - copy the code in a file with extenstion as '.py'
 - To run it use: `python {file_name}.py`
+
+## 🔥 Download the App 🔥
+[Download Now](https://github.com/Ddhruv-IOT/Diwali-Crackers-in-Python/raw/main/diwali.exe)
+⚠️ *Browser or OS may show warnings but kindly ignore them*
+
